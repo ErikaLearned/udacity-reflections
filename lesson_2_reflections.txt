@@ -9,3 +9,8 @@ is the directory you're working in. The staging area's value is allowing you to
 logically seperate commits after some work is done. Even if it made sense to 
 complete the work together, or you forgot to commit at a good point, commiting
 together may not make logical sense. 
+
+#How can you use the staging area to make sure you have one commit per logical
+#change?
+Stage only what makes logical sense to commit together, commit it, comment on
+it... then procced to stage and commit as is logical until done.
