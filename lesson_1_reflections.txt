@@ -1,0 +1,39 @@
+#How did viewing a diff between two versions help you see the bug that was 
+#introduced?
+I didn't have to hunt for the issue in thousands of lines of code. Instead I 
+could simply compare what changes were made. I didn't have to remember all 
+the changes made either. The issue has to be in the changes.
+
+#How could having easy access to the entire history of a file make you a more
+#efficient programmer in the long term?
+I can see the progression of a project, understand my coding style better, and
+work on areas that need improvement. Various areas of work style can be 
+observed: what days of the week things get done, what areas of a project I have
+troubles with, etc.
+
+#What do you think are the pros and cons of manually choosing when to create a
+#commit, like you do in Git, vs having versions automatically saved, like 
+#Google Docs does?
+Pro - they should all make sense to you. Cons - you may not make logical commits
+Pro - they're unlikely to happen in the middle of a sentence
+Pro - you can choose an update message so it's easier to sort through commits
+
+#Why do you think some version control systems, like Git, allow saving multiple
+#files in one commit, while others, like Google Docs, treat each file 
+#seperately?
+Systems like Google Docs are not designed to be grouped together the way Git 
+is. Git was made specifically for coding and coding version control. Editing
+multiple files is common in coding but not often for something like a resume. 
+
+#How can you use the commands git log and git diff to view the history of 
+#files?
+Git log allows for looking at different commit messages while git diff allows
+for looking at the exact code differences between two different commits.
+
+#How might using version control make you more confident to make chagnes that
+#could break something?
+It's easy to go back so there is no risk. More likely to do it.
+
+#Now that you have your workspace set up, what do you want to try using Git
+#for?
+That profile website I've been meaning to do may be a good starting place.
