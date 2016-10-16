@@ -1,3 +1,11 @@
 #What happens when you initialize a repository? Why do you need to do it?
 A .git folder is created for my commits. It needs to be initilized so git can
 record commits and other data.
+
+#How is the staging area different from the working directory and the 
+#repository? What value do you think it offers?
+The staging area is an area to organize your commits. The working directory
+is the directory you're working in. The staging area's value is allowing you to
+logically seperate commits after some work is done. Even if it made sense to 
+complete the work together, or you forgot to commit at a good point, commiting
+together may not make logical sense. 
