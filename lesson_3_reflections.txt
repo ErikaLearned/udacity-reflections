@@ -2,3 +2,10 @@
 #work local?
 Allows for ease of sharing and for you to work from a variety of places. 
 Portability and shareability.
+
+#Why might you want to always pull changes manually rather than having Git 
+#automatically stay up-to-date with your remote repository?
+Control. You may not want the changes that have been made for reasons such as
+the change not being your change. You also don't want to go back to your
+project and not realize changes have happened while you were away. Doing it
+manually ensures you know changes happened.
