@@ -22,3 +22,8 @@ versions of a product available. You can merge features branches in the future.
 
 #How do the diagrams help you visualize the branch structure?
 Diagrams make visualizing branches that much easier. 
+
+#What is the result of merging two branches together? Why do we represent it in
+#the diagram the way we do?
+The result is all the commits being accessible by one branch head. The commits 
+are organized in order of timestamp.
