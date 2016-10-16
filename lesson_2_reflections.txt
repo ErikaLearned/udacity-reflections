@@ -19,3 +19,6 @@ it... then procced to stage and commit as is logical until done.
 #history organized? How would branches help?
 Branches would be useful for new features, refactoring, and when you have two+
 versions of a product available. You can merge features branches in the future.
+
+#How do the diagrams help you visualize the branch structure?
+Diagrams make visualizing branches that much easier. 
