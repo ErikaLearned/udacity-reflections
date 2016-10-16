@@ -14,3 +14,8 @@ together may not make logical sense.
 #change?
 Stage only what makes logical sense to commit together, commit it, comment on
 it... then procced to stage and commit as is logical until done.
+
+#What are some situations when branches would be helpful in keeping your
+#history organized? How would branches help?
+Branches would be useful for new features, refactoring, and when you have two+
+versions of a product available. You can merge features branches in the future.
