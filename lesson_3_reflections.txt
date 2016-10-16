@@ -1,2 +1,4 @@
-#When would you want to use a remote repository rather than keeping all your work
-#local?
+#When would you want to use a remote repository rather than keeping all your 
+#work local?
+Allows for ease of sharing and for you to work from a variety of places. 
+Portability and shareability.
