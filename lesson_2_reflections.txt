@@ -27,3 +27,8 @@ Diagrams make visualizing branches that much easier.
 #the diagram the way we do?
 The result is all the commits being accessible by one branch head. The commits 
 are organized in order of timestamp.
+
+#What are the pros and the cons of Git's automatic merging vs always doing
+#merges manually?
+Pro: less lines to examine ... con: not as in control? Git leaves all conflicts
+up to the user so it's not too much of a problem.
