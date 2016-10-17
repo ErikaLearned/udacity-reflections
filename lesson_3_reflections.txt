@@ -9,3 +9,16 @@ Control. You may not want the changes that have been made for reasons such as
 the change not being your change. You also don't want to go back to your
 project and not realize changes have happened while you were away. Doing it
 manually ensures you know changes happened.
+
+#Describe the differences between forks, clones, and branches. When would you
+#use one instead of another?
+Fork: cloning kept completely on GitHub and gives credit to the creator
+    - useful for working on a project you didn't create
+	- useful for groups working on the same project
+Clone: copying a repo to a new place on a computer
+     - useful for working on a project on your computer or starting something
+	   that doesn't fit into branching
+Branch: a name assigned to a sequence of commits - useful for features, ect
+      - useful for when you want to maintain a working product (usually master)
+	    and still work on feature, experiment, etc.
+      - useful for groups working on the same project
