@@ -26,3 +26,9 @@ Branch: a name assigned to a sequence of commits - useful for features, ect
 #What is the benefit of having a copy of the last known state of the remote
 #stored locally?
 I can work offline. 
+
+#How would you collaborate without usuing Git or GitHub? What would be easier,
+#and what would be harder?
+Possibily through something like Google Docs or by using a stick drive as the 
+"main branch." It would be easier to keep things private with the stick drive
+but everything else is a difficulty: merging, sharing, etc.
