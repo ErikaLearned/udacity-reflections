@@ -32,3 +32,11 @@ I can work offline.
 Possibily through something like Google Docs or by using a stick drive as the 
 "main branch." It would be easier to keep things private with the stick drive
 but everything else is a difficulty: merging, sharing, etc.
+
+#When would you want to make changes in a seperate branch rather than directly
+#in master? What benefits does each approach have?
+A seperate branch is good for changes that work on new features while the 
+master contains a working version of the project. A seperate branch is also
+good for when collaborating. It allows for pull requests. However working
+directly on the master is much quicker. If you're collaborating, working on
+the master directly can cause a lot of frustration. 
